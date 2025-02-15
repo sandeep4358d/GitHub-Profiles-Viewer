@@ -5,7 +5,9 @@ GitHub Profiles Viewer is a simple web application that allows users to search f
 🚀 Features
 
 Fetches user details from the GitHub API.
+
 Displays profile information, including avatar, bio, followers, and repositories.
+
 Fully responsive UI with simple styling.
 
 📂 Project Structure
@@ -25,6 +27,7 @@ GitHub-Profiles-Viewer/
 1️⃣ Clone the Repository
 
 git clone https://github.com/sandeep4358d/GitHub-Profiles-Viewer.git
+
 cd GitHub-Profiles-Viewer
 
 2️⃣ Open in Browser
@@ -32,6 +35,7 @@ cd GitHub-Profiles-Viewer
 Simply open the index.html file in your preferred web browser:
 
 start index.html  # For Windows
+
 open index.html   # For Mac
 
 Or manually open the file by double-clicking it.
