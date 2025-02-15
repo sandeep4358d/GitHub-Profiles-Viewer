@@ -35,7 +35,9 @@ Or manually open the file by double-clicking it.
 🛠️ Tech Stack
 
 HTML - Structuring the webpage
+
 CSS - Styling and responsiveness
+
 JavaScript - Fetching data from the GitHub API
 
 🎯 API Used
