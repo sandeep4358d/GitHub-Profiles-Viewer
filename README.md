@@ -11,6 +11,7 @@ Fully responsive UI with simple styling.
 📂 Project Structure
 
 GitHub-Profiles-Viewer/
+
 ├── index.html    # Main HTML structure
 
 ├── style.css     # Styling for the UI
