@@ -12,8 +12,11 @@ Fully responsive UI with simple styling.
 
 GitHub-Profiles-Viewer/
 ├── index.html    # Main HTML structure
+
 ├── style.css     # Styling for the UI
+
 ├── script.js     # JavaScript logic for API calls
+
 └── README.md     # Documentation
 
 ⚙️ Installation & Usage
