@@ -51,10 +51,15 @@ You can modify script.js to display more details or add extra features.
 🐜 Contributing
 
 Fork the repository
+
 Create a new branch (git checkout -b feature-name)
+
 Make your changes
+
 Commit changes (git commit -m 'Added new feature')
+
 Push the branch (git push origin feature-name)
+
 Open a Pull Request
 
 📝 License
